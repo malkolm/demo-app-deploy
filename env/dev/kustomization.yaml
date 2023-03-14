@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/malkolm/demo-app
-  newTag: c98c21fb5d98c5addb4d2cea160bbd1ea5a8d002
+  newTag: db76ed1d2b558c689bfdaaea57fefe1845f5d071
